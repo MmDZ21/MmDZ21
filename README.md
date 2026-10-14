@@ -1,23 +1,14 @@
-### Hi, I'm Mohammad Zaker
+# Hi, I’m Mohammad Zaker
 
-Full-stack product engineer focused on **Next.js**, **TypeScript**, and **Postgres** — especially Persian/RTL product surfaces.
+I’m a full-stack developer in Mashhad, Iran, building web products with React, Next.js, TypeScript, Node.js and PostgreSQL. I’m extending my product development work into applied AI and LLM integration.
 
-I ship storefronts, booking/ops flows, media catalog UIs, and Telegram Mini App demos (TON **testnet**).
+## Selected work
 
-#### Selected work
+- [Speech](https://speech.cafe): Full-stack ownership of a café ordering platform, covering customer-facing and operational workflows.
+- [Aoyume](https://aoyu.me): Frontend/UI development in collaboration with the backend team.
+- [Mostafa Layegh](https://mostafalayegh.studio): End-to-end website development, including UI, interactions and animations.
+- [My portfolio](https://www.mzaker.site): Web development work and a bounded LLM assistant with grounding, structured validation, streaming responses, Redis-based rate limits and a 22-case evaluation script.
 
-| Project | What it shows | Link |
-| --- | --- | --- |
-| **Vitraj** | Persian RTL commerce + services storefront — case study, architecture, screenshots | [vitraj-showcase](https://github.com/MmDZ21/vitraj-showcase) |
-| **TMA Storefront** | Public Telegram Mini App + TON Connect **testnet** demo | [Live demo](https://tma-storefront-demo.pages.dev) · [repo](https://github.com/MmDZ21/tma-storefront-demo) |
-| **Aoyume** | Flagship Persian RTL media product — private source; authorized sample UI proof | Case study in private repo; ask for walkthrough |
-| **Speech** | Café Ordering Platform — private source; demo/manual payment boundaries | Case study on request (live branded URL not Featured) |
+Open to Full-Stack and Frontend roles, and Applied AI opportunities focused on web products. Open to remote collaboration.
 
-#### Focus
-
-TypeScript · React · Next.js · PostgreSQL · Node.js · Drizzle/ORM · Vitest · Tailwind · Telegram Mini Apps · TON Connect (testnet) · RTL / i18n UI
-
-#### Availability
-
-Open to remote employment and selected freelance opportunities.  
-Best reached via email (mmdzkr20@gmail.com) or LinkedIn (https://www.linkedin.com/in/mohammad-zaker-4303a5422/).
+[Portfolio](https://www.mzaker.site) · [LinkedIn](https://www.linkedin.com/in/mohammad-zaker-4303a5422/)
